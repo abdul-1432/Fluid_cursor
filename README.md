@@ -6,7 +6,7 @@ Welcome to the Fluid-Particle Cursor project! This is a fun and entertaining web
 
 ## Demo
 
-Check out the live demo [here](https://example.com/fluid-particle-cursor-demo) to experience the fluid-particle cursor in action.
+Check out the live demo [here](https://codepen.io/abdul-1432/pen/eYQjjaj) to experience the fluid-particle cursor in action.
 
 ## How It Works
 
