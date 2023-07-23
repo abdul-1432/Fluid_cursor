@@ -82,4 +82,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Thanks to the open-source community for their invaluable contributions and inspiration. The Fluid-Particle Cursor is built upon the collective effort of countless developers who share their knowledge and creativity with the world.
 
-Enjoy the Fluid-Particle Cursor and happy coding! 🚀
+Enjoy the Fluid-Particle Cursor and happy coding! 🚀........................
