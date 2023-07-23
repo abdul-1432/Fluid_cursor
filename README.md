@@ -1,4 +1,4 @@
-# Fluid-Particle Cursor for Entertainment Purposes
+# Fluid-Particle Cursor 
 ![1](https://github.com/abdul-1432/Fluid_cursor/assets/124916666/4b08704b-737a-4c45-849e-526b28d30e8a)
 ![2](https://github.com/abdul-1432/Fluid_cursor/assets/124916666/1fd01288-22c0-40d3-9e4d-00e0f2d9c2f6)
 ![3](https://github.com/abdul-1432/Fluid_cursor/assets/124916666/075e13fa-da7e-41a1-91d4-e45071b56237)
