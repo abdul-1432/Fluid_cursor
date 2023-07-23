@@ -28,7 +28,7 @@ To set up the Fluid-Particle Cursor on your local machine, follow these steps:
 1. Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/fluid-particle-cursor.git
+https://github.com/abdul-1432/Fluid_cursor
 ```
 
 2. Navigate to the project directory:
